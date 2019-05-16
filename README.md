@@ -12,3 +12,13 @@ gradle build
 java -jar build/libs/profit-calculator-1.0-SNAPSHOT.jar 
 
 ```
+
+# better solution
+
+```$shell
+There are two solutions: 
+1. Dynamic Programming Solution
+2. Divide And Conquer Solution 
+
+Dynamic Programming Solution is better
+```
